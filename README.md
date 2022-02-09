@@ -1,10 +1,11 @@
-# SmartBrain
-
-This is a full stack project that uses an
-API to detect faces in images. It uses React.js for
-the frontend and node.js for the backend.
-
-Tech stack: HTML, CSS, JavaScript, React, Node.js, Express.js, PostgreSQL
+# Tech stack:
+1. HTML
+2. CSS
+3. JavaScript
+4. React
+5. Node.js
+6. Express.js
+7. PostgreSQL
 
 ## Getting Started
 

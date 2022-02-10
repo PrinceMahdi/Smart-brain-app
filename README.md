@@ -10,6 +10,7 @@
 5. Node.js
 6. Express.js
 7. PostgreSQL
+8. Hosted on Heroku
 
 ## Getting Started
 

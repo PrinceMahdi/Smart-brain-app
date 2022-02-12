@@ -1,3 +1,7 @@
+# Note
+
+Please be aware that if the website isn't working for you, it's because the API goes offline quite often. Give it a few minutes and resume using the demo! 
+
 # Demo Site
 
 [Smart Brain](https://smart-brains-app123.herokuapp.com/)

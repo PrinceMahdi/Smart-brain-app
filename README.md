@@ -1,6 +1,6 @@
 # Note
 
-Please be aware that if the website isn't working for you, it's because the API goes offline quite often. Give it a few minutes and resume using the demo! 
+Please be aware that if the website isn't working for you, it's because the API goes offline quite often since it's a free account. Give it a few minutes and resume using the demo! 
 
 # Demo Site
 
